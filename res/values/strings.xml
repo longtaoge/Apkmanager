@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">安装包管理</string>
+    <string name="moveall">移动全部</string>
+    <string name="delete">删除</string>
+    <string name="share">分享</string>
+    <string name="finding">正在查找所有apk</string>
+    <string name="ok">确定</string>
+    <string name="cancle">取消</string>
+    <string name="moveto">请输入要移动到的目录</string>
+    <string name="moving">正在移动</string>
+
+</resources>
